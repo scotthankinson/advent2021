@@ -1,0 +1,8 @@
+
+> advent-2017@0.0.0 start
+> npm run build && node dist/index.js
+
+
+> advent-2017@0.0.0 build
+> npm run clean && tsc
+
